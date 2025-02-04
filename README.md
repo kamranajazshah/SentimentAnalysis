@@ -1,4 +1,5 @@
 Sentiment Analysis of Restaurant Reviews
+
 📌 Project Overview
 This project focuses on sentiment analysis of restaurant reviews using machine learning techniques. It classifies customer reviews as positive or negative, helping businesses understand customer feedback effectively.
 
